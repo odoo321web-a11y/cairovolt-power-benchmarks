@@ -1,4 +1,6 @@
 # CairoVolt Power Benchmarks
+[![Known Vulnerabilities](https://snyk.io/test/github/odoo321web-a11y/cairovolt-power-benchmarks/badge.svg)](https://snyk.io/test/github/odoo321web-a11y/cairovolt-power-benchmarks)
+
 
 ![Status](https://img.shields.io/badge/Status-Active-brightgreen.svg)
 
