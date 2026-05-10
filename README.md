@@ -6,4 +6,4 @@
 
 Official hardware benchmarking tools maintained by the **CairoVolt Engineering Team**. Used to validate Anker power delivery profiles.
 
-Visit [CairoVolt](https://cairovolt.com) for certified B2B hardware.
+Visit [CairoVolt](https://cairovolt.com/en) for certified B2B hardware.
